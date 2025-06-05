@@ -1,12 +1,11 @@
-# Price Tracker 
-
 
 # PricePulse - Smart Price Tracking Application 🏷️
 
 A comprehensive full-stack web application that monitors product prices across multiple e-commerce platforms, sends automated alerts on price drops, and provides detailed price analytics through an intuitive dashboard.
 
+![Screenshot 2025-06-03 080321](https://github.com/user-attachments/assets/b35c9614-c1f7-4d82-9625-db8af84c41a2)
 
-
+![Screenshot 2025-06-03 080352](https://github.com/user-attachments/assets/2f5d0acd-aee2-4786-b065-20f909d17481)
 
 
 ## ✨ Features
@@ -138,8 +137,8 @@ python-jose[cryptography]==3.3.0
 
 ### 1. Clone Repository
 ```
-git clone https://github.com/yourusername/pricepulse.git
-cd pricepulse
+git clone https://github.com/adiyaan010205/Price-Pulse.git
+cd Price-Pulse
 ```
 
 ### 2. Backend Setup
@@ -370,20 +369,6 @@ RANDOMIZE_DOWNLOAD_DELAY = True
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-### Development Guidelines
-- Follow PEP 8 for Python code
-- Use ESLint for JavaScript code
-- Write unit tests for new features
-- Update documentation for API changes
-
-## 🙏 Acknowledgments
-
-- FastAPI team for the excellent web framework
-- Scrapy developers for robust scraping capabilities
-- React and Tailwind CSS communities
-- PostgreSQL for reliable data storage
-
----
 
 **Built with ❤️ by Mohammed Adiyaan R**  
 *Powered by FastAPI ⚡ React ⚛️ and Scrapy 🕷️*
