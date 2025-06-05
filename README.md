@@ -374,4 +374,4 @@ RANDOMIZE_DOWNLOAD_DELAY = True
 *Powered by FastAPI ⚡ React ⚛️ and Scrapy 🕷️*
 
 For support or questions, please open an issue on GitHub or contact [adiyaan126@gmail.com](mailto:adiyaan126@gmail.com)
-```
+
