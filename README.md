@@ -1,12 +1,11 @@
 # Price Tracker 
 
-```markdown
+
 # PricePulse - Smart Price Tracking Application 🏷️
 
 A comprehensive full-stack web application that monitors product prices across multiple e-commerce platforms, sends automated alerts on price drops, and provides detailed price analytics through an intuitive dashboard.
 
-![PricePulse Banner]![Screenshot 2025-06-03 080321](https://github.com/user-attachments/assets/62136c10-1849-4a56-9ea0-956017b6b333)
-![Screenshot 2025-06-03 080352](https://github.com/user-attachments/assets/352e12f6-aece-49b3-bf2e-3331dfb2bf65)
+
 
 
 
@@ -329,7 +328,7 @@ scheduler.add_job(
     hours=6,
     id='price_check_job'
 )
-
+```
 
 
 ## 🔧 Troubleshooting
